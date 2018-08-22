@@ -1,0 +1,22 @@
+{
+  "name": "vue-video",
+  "version": "1.0.0",
+  "description": "A versatile video player package by vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CChanggg/vue-video.git"
+  },
+  "author": "cchanggg",
+  "license": "ISC",
+  "dependencies": {
+    "iphone-inline-video": "~2.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/CChanggg/vue-video/issues"
+  },
+  "homepage": "https://github.com/CChanggg/vue-video#readme"
+}
